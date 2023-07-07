@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Hydra
-- 👀 I’m interested in developing a game engine
-- 🌱 I’m currently learning developing a game engine
+- 👀 I’m interested in developing an engaging virtual environment
+- 🌱 I’m currently learning hot to develop an engaging virtual environment
